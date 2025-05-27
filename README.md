@@ -33,16 +33,22 @@ git clone https://github.com/your-username/weather-app.git
 ```
 
 Navigate to the project directory:
+```bash
 cd weather-app
+```
 
 Install dependencies:
+```bash
 npm install
+```
 
 Create a .env file in the root directory and add your OpenWeatherMap API key:
 REACT_APP_OPENWEATHER_API_KEY=your_api_key_here
 
 Start the development server:
+```bash
 npm start
+```
 
 Open http://localhost:3000 to view it in your browser.
 
@@ -53,6 +59,7 @@ View current weather conditions for the specified location
 
 **API Reference**
 This application uses the OpenWeatherMap Current Weather Data API.
+[OpenWeatherMap API](https://openweathermap.org/api "OpenWeatherMap API Documentation")
 
 
 
