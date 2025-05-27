@@ -58,8 +58,7 @@ Press the search button or hit Enter
 View current weather conditions for the specified location
 
 **API Reference**
-This application uses the OpenWeatherMap Current Weather Data API.
-[OpenWeatherMap API](https://openweathermap.org/api "OpenWeatherMap API Documentation")
+This application uses the [OpenWeatherMap API](https://openweathermap.org/api "OpenWeatherMap API Documentation")
 
 
 
