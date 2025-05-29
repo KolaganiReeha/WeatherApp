@@ -3,6 +3,10 @@ A responsive weather application built with React, OpenWeatherMap API, axios, an
 
 ![weatherApp](https://github.com/user-attachments/assets/0fa66f3b-1a15-4bed-9ba1-94c87faee2c2)
 ![image](https://github.com/user-attachments/assets/751f6edd-4cee-4fb4-aeff-75349e2e74cf)
+![image](https://github.com/user-attachments/assets/ac3a7623-a931-4d82-8bbb-e04eb8fc08b0)
+![image](https://github.com/user-attachments/assets/2a9223b5-3d72-4898-a833-5f6f1de4e4da)
+
+
 
 **Features**
 Real-time weather data from OpenWeatherMap API
