@@ -20,6 +20,7 @@ JavaScript (ES6+)
   - Async/Await for API calls
   - Dynamic background updates based on weather conditions
   - Time formatting function
+    
 React.js
 Axios (for API calls)
 Bootstrap 5 (for styling)
