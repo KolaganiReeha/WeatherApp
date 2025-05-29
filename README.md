@@ -25,7 +25,7 @@ JavaScript (ES6+)
   - Dynamic background updates based on weather conditions
   - Time formatting function
     
-React.js.
+React.js,
 Axios (for API calls),
 Bootstrap 5 (for styling),
 React Icons (for weather icons),
